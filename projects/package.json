@@ -1,0 +1,24 @@
+{
+  "name": "projects",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "bootstrap": "^5.0.1",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "^4.19.2",
+    "jade": "*",
+    "method-override": "^3.0.0",
+    "mongodb": "*",
+    "mongoose": "^5.13.22",
+    "monk": "*",
+    "morgan": "*",
+    "node": "^22.0.0",
+    "nodemon": "^3.1.0",
+    "serve-favicon": "*"
+  }
+}
